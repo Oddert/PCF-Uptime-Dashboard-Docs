@@ -3,6 +3,7 @@ site_description: Dashboard abstraction layer for PCF clusters displaying instan
 docs_dir: 'docs'
 site_author: 'Robyn Veitch'
 nav:
+  - Home: index.md
   - Architecture: architecture.md
   - Database: database.md
   - Resource Based Access Control: rbac.md
