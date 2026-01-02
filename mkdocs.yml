@@ -4,6 +4,8 @@ docs_dir: 'docs'
 site_author: 'Robyn Veitch'
 nav:
   - Architecture: architecture.md
+  - Database: database.md
+  - Resource Based Access Control: rbac.md
   - Websockets: websockets.md
   
 theme:
